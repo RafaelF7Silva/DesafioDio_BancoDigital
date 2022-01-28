@@ -17,7 +17,7 @@ public class Principal {
         int opcao = 0;
 
 
-        System.out.println("Bem-vindo ao Banco Dio");
+        System.out.println("Bem-vindo ao Banco Digital Inovation");
         do {
             System.out.println("Selecione uma opção abaixo: ");
             System.out.println("1 - Depositar");
