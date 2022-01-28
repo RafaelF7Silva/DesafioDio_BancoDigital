@@ -23,8 +23,8 @@ public class Principal {
             System.out.println("1 - Depositar");
             System.out.println("2 - Sacar");
             System.out.println("3 - Consultar Saldo");
-            System.out.println("4 - Meus dados");
-            System.out.println("5 - Dados Poupança");
+            System.out.println("4 - Consultar  Dados Conta Corrente");
+            System.out.println("5 - Consultar Dados Conta Poupança");
             System.out.println("0 - Sair");
             opcao = teclado.nextInt();
 
